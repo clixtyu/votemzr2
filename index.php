@@ -49,7 +49,7 @@ if(isset($_POST['check'])){
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="shortcut icon" href="kb.jpg" type="image/x-icon">
-	<title>Login - eVoting OSIS</title>
+	<title>Login - eVoting MPK</title>
 	<!-- jquery -->
 	<script src="assets/vendor/jquery/jquery.min.js"></script>
 	<!-- chartjs -->

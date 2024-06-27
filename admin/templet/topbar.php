@@ -14,7 +14,7 @@
     
       <!-- Nav Item - Dashboard -->
       <li class="nav-item active">
-        <a class="nav-link" href="dashboard.php?title=Dashboard - eVoting OSIS">
+        <a class="nav-link" href="dashboard.php?title=Dashboard - eVoting MPK">
           <i class="fas fa-fw fa-tachometer-alt"></i>
           <span>Dashboard</span></a>
         </li>
@@ -37,11 +37,11 @@
        <div id="master" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
         <div class="bg-white py-2 collapse-inner rounded">
          <h6 class="collapse-header">Data Master</h6>
-         <a class="collapse-item" href="data_pemilih.php?title=Data Pemilih - eVoting OSIS">Data Pemilih</a>
-         <a class="collapse-item" href="data_siswa.php?title=Data Siswa - eVoting OSIS">Data Siswa</a>
-         <a class="collapse-item" href="data_calon_osis.php?title=Data Kandidat - eVoting OSIS">Data Kandidat</a>
-         <a class="collapse-item" href="data_panitia.php?title=Data Panitia - eVoting OSIS">Data Panitia</a>
-         <a class="collapse-item" href="data_admin.php?title=Data Admin - eVoting OSIS">Data Admin</a>
+         <a class="collapse-item" href="data_pemilih.php?title=Data Pemilih - eVoting MPK">Data Pemilih</a>
+         <a class="collapse-item" href="data_siswa.php?title=Data Siswa - eVoting MPK">Data Siswa</a>
+         <a class="collapse-item" href="data_calon_osis.php?title=Data Kandidat - eVoting MPK">Data Kandidat</a>
+         <a class="collapse-item" href="data_panitia.php?title=Data Panitia - eVoting MPK">Data Panitia</a>
+         <a class="collapse-item" href="data_admin.php?title=Data Admin - eVoting MPK">Data Admin</a>
        </div>
      </div>
    </li>
@@ -52,7 +52,7 @@
 
    <!-- Nav Item - Dashboard -->
    <li class="nav-item">
-    <a class="nav-link" href="check_voting.php?title=Check Voting - eVoting OSIS">
+    <a class="nav-link" href="check_voting.php?title=Check Voting - eVoting MPK">
       <i class="fas fa-fw fa-tachometer-alt"></i>
       <span>Check Hasil Voting</span></a>
     </li>

@@ -19,7 +19,7 @@ if(!isset($_SESSION['username'])){
        <div class="col-sm-4 mt-3">
          <div class="card"> 
             <div class="card-header">  
-               <h5 class="text-center">KANDIDAT OSIS KE <?php echo $no++ ?></h5>
+               <h5 class="text-center">KANDIDAT MPK KE <?php echo $no++ ?></h5>
             </div>
             <div  class="thumbnail">
               <div class="card-body">

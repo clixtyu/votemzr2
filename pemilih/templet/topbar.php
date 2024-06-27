@@ -16,7 +16,7 @@
 
   <!-- Nav Item - Dashboard -->
   <li class="nav-item active">
-    <a class="nav-link" href="dashboard.php?title=Dashboard - eVoting OSIS">
+    <a class="nav-link" href="dashboard.php?title=Dashboard - eVoting MPK">
       <i class="fas fa-fw fa-tachometer-alt"></i>
       <span>Dashboard</span></a>
     </li>
@@ -32,7 +32,7 @@
 
         <!-- Nav Item - voting -->
         <li class="nav-item">
-          <a class="nav-link" href="voting.php?title=Voting - eVoting OSIS">
+          <a class="nav-link" href="voting.php?title=Voting - eVoting MPK">
             <i class="fas fa-check-double"></i>
             <span>Voting</span></a>
           </li>
@@ -40,7 +40,7 @@
           <hr class="sidebar-divider">
           <!-- Nav Item - ganti password -->
           <li class="nav-item">
-            <a class="nav-link" href="ganti_password.php?title=Ganti Password - eVoting OSIS">
+            <a class="nav-link" href="ganti_password.php?title=Ganti Password - eVoting MPK">
               <i class="fas fa-key"></i>
               <span>Ganti Password</span></a>
             </li>
@@ -113,7 +113,7 @@
       <!-- Dropdown - User Information -->
       <div class="dropdown-menu dropdown-menu-right shadow animated--grow-in"
       aria-labelledby="userDropdown">
-      <a class="dropdown-item" href="seting_profil.php?title=Profil - eVoting OSIS">
+      <a class="dropdown-item" href="seting_profil.php?title=Profil - eVoting MPK">
         <i class="fas fa-user fa-sm fa-fw mr-2"></i>
          Profil
       </a>
