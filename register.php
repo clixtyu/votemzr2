@@ -43,7 +43,7 @@
             <div class="p-5">
               <div class="form-group">
                 <div class="input-group mb-3">
-                  <input type="text" name="nama" class="form-control" placeholder="Nama Lengkap" required>
+                  <input type="text" name="nama" class="form-control" autocomplete="off" placeholder="Nama Lengkap" required>
                   <div class="input-group-append">
                     <div class="input-group-text">
                       <span class="fas fa-user"></span>
@@ -59,7 +59,7 @@
                   </select>
                 </div>
                 <div class="input-group mb-3">
-                  <input type="email" name="email" class="form-control" placeholder="Alamat Email" required>
+                  <input type="email" name="email" autocomplete="off" class="form-control" placeholder="Alamat Email" required>
                   <div class="input-group-append">
                     <div class="input-group-text">
                       <span class="fas fa-envelope"></span>
@@ -67,7 +67,7 @@
                   </div>
                 </div>
                 <div class="input-group mb-3">
-                  <input type="tel" id="phone" name="no_hp" class="form-control" placeholder="Nomor Handphone"
+                  <input type="tel" id="phone" autocomplete="off" name="no_hp" class="form-control" placeholder="Nomor Handphone"
                   required>
                   <div class="input-group-append">
                     <div class="input-group-text">
@@ -82,7 +82,7 @@
           <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6 col-xl-6">
             <div class="p-5">
               <div class="input-group">
-                <input type="text" name="nis" class="form-control" placeholder="NIS" required>
+                <input type="text" name="nis" autocomplete="off" class="form-control" placeholder="NIS" required>
                 <div class="input-group-append">
                   <div class="input-group-text">
                     <span class="fas fa-key"></span>
@@ -101,7 +101,7 @@
                 </div>
               </div>
               <div class="input-group">
-                <input type="text" name="username" class="form-control" placeholder="Username" required>
+                <input type="text" name="username" autocomplete="off" class="form-control" placeholder="Username" required>
                 <div class="input-group-append">
                   <div class="input-group-text">
                     <span class="fas fa-envelope"></span>

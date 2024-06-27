@@ -46,16 +46,6 @@
             </li>
             <!-- Divider -->
             <hr class="sidebar-divider">
-            <!-- Nav Item - lihat status -->
-            <li class="nav-item">
-              <a class="nav-link" href="lihat_status.php?title=Lihat Status - eVoting OSIS">
-                <i class="fas fa-chart-pie"></i>
-                <span>Lihat Status</span></a>
-              </li>
-
-
-              <!-- Divider -->
-              <hr class="sidebar-divider d-none d-md-block">
 
               <!-- Sidebar Toggler (Sidebar) -->
               <div class="text-center d-none d-md-inline" style="float: center">

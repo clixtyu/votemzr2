@@ -188,7 +188,7 @@ if(!isset($_SESSION['username'])){
        <form action="aksi_insert.php?tambah=data_kandidat" method="post" enctype="multipart/form-data">
         <div class="form-group">
           <label for="nama">Nama Kandidat</label>
-          <input required="" type="text" id="nama" name="nama" class="form-control">
+          <input required="" type="text" id="nama" autocomplete="off" name="nama" class="form-control">
         </div>
         <div class="form-group">
           <label for="visi">Visi</label>

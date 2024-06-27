@@ -173,15 +173,15 @@ $kode = $char. sprintf("%03s", $nourut);
      <form action="aksi_insert.php?tambah=data_siswa" method="post">
       <div class="form-group">
         <label for="nis">NIS</label>
-        <input  required="" type="text" id="nis" name="nis" class="form-control">
+        <input  required="" type="text" autocomplete="off" id="nis" name="nis" class="form-control">
       </div>
       <div class="form-group">
         <label for="nama">Nama</label>
-        <input required="" type="text" id="nama" name="nama" class="form-control">
+        <input required="" type="text" id="nama" autocomplete="off" name="nama" class="form-control">
       </div>
       <div class="form-group">
         <label for="jurusan">Kelas</label>
-        <input required="" type="text" id="jurusan" name="jurusan" class="form-control">
+        <input required="" type="text" id="jurusan" autocomplete="off" name="jurusan" class="form-control">
       </div>
       <div class="form-group">
         <label for="jenis_Kelamin">Jenis Kelamin</label>
@@ -193,11 +193,11 @@ $kode = $char. sprintf("%03s", $nourut);
       </div>
       <div class="form-group">
         <label for="email">Email</label>
-        <input required="" type="email" id="email" name="email" class="form-control">
+        <input required="" type="email" id="email" autocomplete="off" name="email" class="form-control">
       </div>
       <div class="form-group">
         <label for="no_hp">No HP</label>
-        <input required="" type="number" id="no_hp" name="no_hp" class="form-control">
+        <input required="" type="number" autocomplete="off" id="no_hp" name="no_hp" class="form-control">
       </div>
       <div class="modal-footer">
         <button type="submit" class="btn btn-primary" name="tambah_siswa" id="tombol-tambah-siswa">Tambah</button>

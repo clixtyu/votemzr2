@@ -187,19 +187,19 @@ if(!isset($_SESSION['username'])){
       </div>
       <div class="form-group">
         <label for="nama">Nama Pemilih</label>
-        <input required="" type="text" id="nama" name="nama" class="form-control">
+        <input required="" type="text" id="nama" name="nama" autocomplete="off" class="form-control">
       </div>
       <div class="form-group">
         <label for="username">Username</label>
-        <input required="" type="text" id="username" name="username" class="form-control" >
+        <input required="" type="text" id="username" autocomplete="off" name="username" class="form-control" >
       </div>
       <div class="form-group">
         <label for="email">Email</label>
-        <input  required="" type="email" id="email" name="email" class="form-control">
+        <input  required="" type="email" id="email" autocomplete="off" name="email" class="form-control">
       </div>
       <div class="form-group">
         <label for="no_hp">No HP</label>
-        <input  required="" type="number" id="no_hp" name="no_hp" class="form-control">
+        <input  required="" type="number" autocomplete="off" id="no_hp" name="no_hp" class="form-control">
       </div>
       <div class="form-group">
         <label for="jenis_kelamin">Jenis Kelamin</label>

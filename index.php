@@ -116,7 +116,7 @@ if(isset($_POST['check'])){
 					<div class="form-group">
 						<i class="fas fa-users btn-4x"></i>
 						<label for="username">Username</label>
-						<input required="" type="text" name="username" class="form-control" id="username" placeholder="Masukkan username Anda" value="">
+						<input required="" type="text" name="username" class="form-control" id="username" placeholder="Masukkan username Anda" value="" autocomplete="off">
 					</div>
 					<div class="form-group">
 						<i class="fas fa-unlock"></i>

@@ -180,11 +180,11 @@ $kode = $char. sprintf("%03s", $nourut);
       </div>
       <div class="form-group">
         <label for="nama">Nama Panitia</label>
-        <input required="" type="text" id="nama" name="nama" class="form-control">
+        <input required="" type="text" id="nama" autocomplete="off" name="nama" class="form-control">
       </div>
       <div class="form-group">
         <label for="usernmae">Username</label>
-        <input required="" type="text" name="username" class="form-control">
+        <input required="" type="text" name="username" autocomplete="off" class="form-control">
       </div>
       <div class="form-group">
         <label for="password">Password</label>
@@ -192,7 +192,7 @@ $kode = $char. sprintf("%03s", $nourut);
       </div>
       <div class="form-group">
         <label for="email">Email</label>
-        <input  required="" type="text" id="email" name="email" class="form-control">
+        <input  required="" type="text" id="email" autocomplete="off" name="email" class="form-control">
       </div>
       <div class="form-group">
         <label for="jenis_Kelamin">Jenis Kelamin</label>

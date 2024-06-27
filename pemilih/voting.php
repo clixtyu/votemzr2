@@ -25,7 +25,7 @@ if(!isset($_SESSION['username'])){
               <div class="card-body">
                <div style="text-align: center">
                  <img style="height: 300px; width: 100%" src="../foto_kandidat/<?php echo $data['foto'] ?>" >
-                 <button type="button" data-id="<?php echo $data['id_kandidat'] ?>"  class="btn btn-sm btn-warning mt-3 tombol-voting" style="width: 220px">Pilih</button>
+                 <button type="button" data-id="<?php echo $data['id_kandidat'] ?>"  class="btn btn-sm btn-warning mt-2 mb-2 tombol-voting" style="width: 220px">Pilih</button>
                  <button type="button" data-id="<?php echo $data['id_kandidat'] ?>" class="btn btn-sm btn-primary tombol-detail" style="width: 120px">Detail</i></button>
               </div>
            </div>
